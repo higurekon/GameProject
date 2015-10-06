@@ -1,0 +1,131 @@
+-- VERSION_4
+-- START DISKCACHE
+C:\Users\PC\Downloads\Game Project\Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Colossica\com.python.pydev.analysis\v2_indexcache
+test_main|1444106850316|C:\Users\PC\Downloads\Game Project\Workspace\Colossica\test_main.py
+test_main3|1444106850354|C:\Users\PC\Downloads\Game Project\Workspace\Colossica\test_main3.py
+test_main2|1444106850336|C:\Users\PC\Downloads\Game Project\Workspace\Colossica\test_main2.py
+tester|1444106850374|C:\Users\PC\Downloads\Game Project\Workspace\Colossica\tester.py
+sprite_strip_anim|1444106850241|C:\Users\PC\Downloads\Game Project\Workspace\Colossica\sprite_strip_anim.py
+__init__|1444106850204|C:\Users\PC\Downloads\Game Project\Workspace\Colossica\__init__.py
+example_format|1444106850221|C:\Users\PC\Downloads\Game Project\Workspace\Colossica\example_format.py
+spritesheet|1444106850276|C:\Users\PC\Downloads\Game Project\Workspace\Colossica\spritesheet.py
+-- END DISKCACHE
+-- START DICTIONARY
+48
+38=player.move_up
+35=player.walk_right
+43=Fist.punch
+20=frog.actions
+48=frog.resetTimer
+12=Chimp
+40=player.move_right
+7=tester
+26=SpriteStripAnim.iter
+6=sprite_strip_anim
+13=Irene
+24=Chimp.punched
+34=Irene.walk_left
+41=player.move_left
+18=Irene.__init__
+27=SpriteStripAnim.next
+23=Chimp._spin
+9=frog
+8=SpriteStripAnim
+42=Fist.__init__
+37=frog.move_side
+30=Irene.stop
+5=spritesheet
+31=npc.eat
+10=player
+14=npc
+39=player.move_down
+1=test_main
+15=frog.__init__
+11=Fist
+22=player.jump
+47=npc.idle
+3=test_main3
+4=test_main2
+33=Irene.walk_right
+25=SpriteStripAnim.__init__
+17=Chimp.__init__
+28=frog.resetFrame
+32=Chimp._walk
+44=Fist.unpunch
+2=example_format
+16=player.__init__
+29=player.reset
+36=player.walk_left
+45=spritesheet.__init__
+21=player.walk
+46=player.idle
+19=npc.__init__
+-- END DICTIONARY
+-- START TREE 1
+17
+bos|2|boss_rects_idle!11@boss_rects_eat!11@
+chi|1|Chimp!17@
+fis|1|Fist!17@
+fro|8|frog!25@frogheight!35@frog!33@frog_rects!27@frog_rects!35@frogheight!27@frogwidth!27@frogwidth!35@
+hei|2|height!27@height!35@
+ire|11|Irene!9@irene_rects!35@irene_rects_stop!11@irene_rects!27@irene_rects_start!11@irenewidth!35@irene_rects_walk!11@ireneheight!27@ireneheight!35@irene_rects_idle!11@irenewidth!27@
+loa|2|load_image!18@load_sound!18@
+mai|4|main!26@main!10@main!34@main!18@
+npc|1|npc!9@
+pla|4|player!33@player!25@player!9@player1_rects!11@
+spr|2|spritesheet!41@SpriteStripAnim!49@
+tem|3|temp!11@temp!35@temp!27@
+thi|1|thing!59@
+wid|2|width!27@width!35@
+wor|4|workspace!27@workspace!19@workspace!11@workspace!35@
+x_b|3|x_bounds!27@x_bounds!35@x_bounds!11@
+y_b|3|y_bounds!27@y_bounds!35@y_bounds!11@
+-- END TREE
+-- START TREE 2
+45
+__a|1|__add__!8&50@
+__i|11|__init__!9&26@__init__!10&26@__init__!11&18@__init__!12&18@__init__!9&34@__init__!10&34@__init__!13&10@__init__!10&10@__init__!14&10@__init__!8&50@__init__!5&42@
+_sp|1|_spin!12&18@
+_wa|1|_walk!12&18@
+act|2|actions!9&34@actions!9&26@
+add|1|add_animation!13&10@
+ali|4|alive!15&27@alive!16&27@alive!15&35@alive!16&35@
+are|1|area!17&19@
+coo|3|coord!18&11@coord!16&11@coord!19&11@
+dir|10|direction!15&27@direction!20&27@direction!16&27@direction!21&27@direction!22&27@direction!15&35@direction!20&35@direction!16&35@direction!21&35@direction!22&35@
+diz|3|dizzy!17&19@dizzy!23&19@dizzy!24&19@
+don|4|done!15&35@done!20&35@done!15&27@done!20&27@
+eat|1|eat!14&10@
+f|3|f!25&51@f!26&51@f!27&51@
+fil|1|filename!25&51@
+fra|14|frames!25&51@frame!15&27@frame!28&27@frame!16&27@frame!29&27@frame_idle!19&11@frame_eat!19&11@frame!15&35@frame!28&35@frame!16&35@frame!29&35@frame!18&11@frame!30&11@frame!16&11@
+ful|2|full!19&11@full!31&11@
+gra|4|gravity!16&27@gravity!29&27@gravity!16&35@gravity!29&35@
+hei|4|height!15&27@height!16&27@height!15&35@height!16&35@
+i|3|i!25&51@i!26&51@i!27&51@
+idl|3|idle!10&26@idle!14&10@idle!10&34@
+ima|5|image!32&19@image!23&19@images!25&51@image_at!5&42@images_at!5&42@
+ite|1|iter!8&50@
+jum|2|jump!10&34@jump!10&26@
+loa|1|load_strip!5&42@
+loo|1|loop!25&51@
+mov|12|move_right!10&26@move_left!10&34@move_side!9&26@move_side!9&34@move_left!10&26@move!17&19@move!32&19@move_up!10&34@move_right!10&34@move_down!10&34@move_up!10&26@move_down!10&26@
+nex|1|next!8&50@
+off|2|offset!15&27@offset!15&35@
+ori|9|original!24&19@orientation!18&11@orientation!30&11@orientation!33&11@orientation!34&11@orientation!16&11@orientation!35&11@orientation!36&11@orientation!19&11@
+pos|21|position!15&35@position!37&35@position!16&35@position!38&35@position!39&35@position!40&35@position!41&35@position!18&11@position!33&11@position!34&11@position!16&11@position!35&11@position!36&11@position!19&11@position!15&27@position!37&27@position!16&27@position!38&27@position!39&27@position!40&27@position!41&27@
+pun|5|punched!12&18@punch!11&18@punching!42&19@punching!43&19@punching!44&19@
+rec|2|rect!32&19@rect!23&19@
+res|6|reset!10&34@resetFrame!9&34@reset!10&26@resetTimer!9&34@resetFrame!9&26@resetTimer!9&26@
+she|1|sheet!45&43@
+spr|31|sprite_lib!15&27@sprite_lib!16&27@sprite_lib!15&35@sprite_lib!16&35@sprites!15&27@sprites!16&27@sprites!21&27@sprites!22&27@sprites!46&27@spritemaker!9&26@spritemaker!10&26@sprites!15&35@sprites!16&35@sprites!21&35@sprites!22&35@sprites!46&35@spritemaker!9&34@spritemaker!10&34@sprites!18&11@sprites!30&11@sprites!33&11@sprites!34&11@sprites!16&11@sprites!35&11@sprites!36&11@sprites!19&11@sprites!47&11@sprites!31&11@sprite_lib!18&11@sprite_lib!16&11@sprite_lib!19&11@
+sta|16|state!15&27@state!16&27@state!21&27@state!22&27@state!46&27@state!15&35@state!16&35@state!21&35@state!22&35@state!46&35@status!18&11@status!16&11@state!18&11@state!30&11@state!33&11@state!34&11@
+sto|1|stop!13&10@
+tim|4|timer!15&27@timer!48&27@timer!15&35@timer!48&35@
+unp|1|unpunch!11&18@
+upd|2|update!11&18@update!12&18@
+wal|6|walk_right!13&10@walk_right!10&10@walk!10&26@walk!10&34@walk_left!13&10@walk_left!10&10@
+wid|7|width!15&27@width!16&27@width!15&35@width!16&35@width!18&11@width!16&11@width!19&11@
+x|10|x!15&35@x!37&35@x!16&35@x!40&35@x!41&35@x!15&27@x!37&27@x!16&27@x!40&27@x!41&27@
+y|8|y!15&35@y!16&35@y!38&35@y!39&35@y!15&27@y!16&27@y!38&27@y!39&27@
+-- END TREE
