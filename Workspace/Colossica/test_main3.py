@@ -12,7 +12,7 @@ import spritesheet
 import math
 import random
 
-workspace = "C:/Users/PC/Downloads/Game Project/Workspace"
+workspace = ".."
 
 x_bounds = [0,1200]
 y_bounds = [0,800]
